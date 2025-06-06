@@ -16,7 +16,7 @@ Each demo fits within 4Kb (4,096 bytes) of executable code.
 ![RetroVision](Revision4Kb_2023/RetroVision.png?raw=true "RetroVision")
 
 Tools:
-  - Written with Evvvvil's 'Posh Brolly' (www.poshbrolly.net)
+  - Written with Evvvvil's 'Posh Brolly' ([Shader Source](https://www.poshbrolly.net/shader/TC3fXW3gPIO0rDotMKtg))
   - Processed with GLSL Shader Shrinker (https://github.com/deanthecoder/GLSLShaderShrinker)
   - Compressed with Crinkler (https://github.com/runestubbe/Crinkler)
   - Iq's 1K/4K demo framework (https://github.com/in4k/isystem1k4k)
@@ -30,7 +30,7 @@ Tools:
 ![Gods Front Porch](ShadowParty4Kb_20220610/GodsFrontPorch_Final.png?raw=true "Gods Front Porch")
 
 Tools:
-  - Written with Shadertoy (www.shadertoy.com)
+  - Written with Shadertoy ([Shader Source](https://www.shadertoy.com/view/Nt2fzc))
   - Processed with GLSL Shader Shrinker (https://github.com/deanthecoder/GLSLShaderShrinker)
   - Compressed with Crinkler (https://github.com/runestubbe/Crinkler)
   - Iq's 1K/4K demo framework (https://github.com/in4k/isystem1k4k)
@@ -42,6 +42,10 @@ Tools:
 ### Event: Released at Revision 2022
 
 ![Revised Reality](Revision4Kb_20220415/RevisedReality.png?raw=true "Revised Reality")
+
+Tools:
+  - Written with Shadertoy ([Shader Source](https://www.shadertoy.com/view/NlScRy))
+  - Processed with GLSL Shader Shrinker (https://github.com/deanthecoder/GLSLShaderShrinker)
 
 ## Credit
 
